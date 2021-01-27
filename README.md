@@ -8,7 +8,7 @@ Jika anda ingin mencoba menjalankan kode di dalam notebook saya merekomendasikan
 
 ---
 
-This repository contains my study notes and some of the exercises provided from the [Python for Time Series Data Analysis] course (https://www.udemy.com/share/101WWMAEMad15SRX8D/). Work is still in progress. 
+This repository contains my study notes and some of the exercises provided from the course [Python for Time Series Data Analysis](https://www.udemy.com/share/101WWMAEMad15SRX8D/). Work is still in progress. 
 
 If you want to try running the code in a notebook I recommend using the anaconda environment with the configuration in the tsa_course_env.yml provided by the course. 
 
